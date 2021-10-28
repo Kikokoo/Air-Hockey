@@ -6,7 +6,6 @@
 	box-sizing: border-box;
 	-moz-box-sizing: border-box;
 	-webkit-box-sizing: border-box;
-	
 }
 a,a:hover{text-decoration: none}
 ol,ul{list-style: none}
@@ -25,11 +24,11 @@ body{
 /******************/
 
 #hockey{
-    background-color: black;
-    display: block;
-    margin: 10px auto;
+  background-color: black;
+  display: block;
+  margin: 10px auto;
 	border: 1px solid #ff0000;
-    cursor: crosshair;
+  cursor: crosshair;
 }
 .nav{
 	color: #fff;
